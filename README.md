@@ -1,4 +1,4 @@
-### Hi there 👋
+### Snake game 
 
 <!--
 **Mani199810/Mani199810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
